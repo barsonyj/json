@@ -1,0 +1,21 @@
+{
+  "rows":15,
+  "columns":20,
+  "data":[
+	"XXXXXXXXXXXXXXXXXXXX",
+	"X   X      X X     X",
+	"X X   XXXX      XX X",
+	"X X X    X XXXX X  X",
+	"X X XX X   X      XX",
+	"X X  X X XXXXXXXX  X",
+	"X XXXX X XX     X XX",
+	"X      X    XXX    X",
+	"XXX XXXXXXX   XX XXX",
+	"X   X     X X X    X",
+	"X X XXX X   X X XXXX",
+	"X X   X XXXXX X    X",
+	"X XXXXX X     XXXX X",
+	"X         X X      X",
+	"XXXXXXXXXXXXXXXXXXXX"
+  ]
+}
