@@ -1,0 +1,8 @@
+{
+ "osztalyok":[
+  { "nev":"10/A", "szakma":"informatika" },
+  { "nev":"10/B", "szakma":"gépészet" },
+  { "nev":"10/C", "szakma":"elektronika" },
+  { "nev":"10/E", "szakma":"művészet" }
+ ]
+}
