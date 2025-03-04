@@ -1,0 +1,32 @@
+[
+ { "id": 1,
+   "nev": "Toyota Corolla",
+   "leiras": "A Toyota Corolla egy kompakt autó, amely megbízhatóságáról és üzemanyag-hatékonyságáról ismert. Modern dizájnja és fejlett biztonsági funkciói miatt népszerű választás a városi közlekedésben. Az újabb modellek hibrid változatban is elérhetők, tovább csökkentve a fogyasztást.​",
+   "kep": "toyota_corolla.jpg"
+ },
+ { "id": 2,
+   "nev": "Ford Focus",
+   "leiras": "A Ford Focus dinamikus vezetési élményt és kényelmes utasteret kínál. Kiváló kezelhetősége és modern technológiai felszereltsége miatt kedvelt a kompakt autók között. A sportos ST változat különösen a teljesítményorientált vezetők számára vonzó.​",
+   "kep": "ford_focus.jpg"
+ },
+ { "id": 3,
+   "nev": "Volkswagen Golf",
+   "leiras": "A Volkswagen Golf az egyik legismertebb kompakt autó, amely minőségi belső terével és kiegyensúlyozott menettulajdonságaival tűnik ki. Számos változatban elérhető, beleértve a sportos GTI és az elektromos e-Golf modelleket is.​",
+   "kep": "volkswagen_golf.jpg"
+ },
+ { "id": 4,
+   "nev": "Honda Civic",
+   "leiras": "A Honda Civic sportos megjelenésével és megbízhatóságával hódít. Tágas utastere és gazdaságos motorjai miatt kedvelt választás a kompakt autók piacán. Az újabb modellek hibrid változatban is elérhetők, környezetbarát megoldást kínálva.​",
+   "kep": "honda_civic.jpg"
+ }, 
+ { "id": 5,
+   "nev": "BMW 3-as sorozat",
+   "leiras": "A BMW 3-as sorozat a sportos vezetési élményt ötvözi a luxussal. Prémium belső tere és precíz kezelhetősége miatt a középkategóriás szedánok egyik etalonja. Számos motorváltozattal és felszereltségi szinttel érhető el, kielégítve a különböző igényeket.​",
+   "kep": "bmw3.jpg"
+ },
+ { "id": 6,
+   "nev": "Mercedes-Benz C-osztály",
+   "leiras": "A Mercedes-Benz C-osztály elegáns megjelenésével és fejlett technológiájával tűnik ki. Kényelmes utastere és kifinomult menettulajdonságai miatt népszerű a prémium szedánok között. Az AMG Line változat sportosabb megjelenést és teljesítményt kínál.​",
+   "kep": "mercedes_benz_c.jpg"
+ }
+]
