@@ -3,56 +3,56 @@
     "id": 1,
     "fajta": "Vakond",
     "leiras": "A vakond egy földalatti életmódhoz alkalmazkodott kisemlős, amely erős mellső lábaival hatékonyan ás alagutakat. Főként rovarokkal és lárvákkal táplálkozik, miközben puha, fekete bundája segíti a mozgását a földben. Rossz látása ellenére rendkívül érzékeny tapintó- és szaglószervei vannak.",
-    "eltkor": "3-5 év"
+    "eletkor": "3-5 év",
 	"kep": "https://barsonyj.github.io/json/kisallat/vakond.jpg"
   },
   {
     "id": 2,
     "fajta": "Menyét",
     "leiras": "A menyét egy kisméretű, karcsú testfelépítésű ragadozó, amely főként rágcsálókkal táplálkozik. Rendkívül gyors és ügyes vadász, amely akár saját méreténél nagyobb zsákmányt is képes elejteni. Téli bundája fehérré válhat, hogy jobban beleolvadjon a havas környezetbe.",
-    "eltkor": "2-5 év"
+    "eletkor": "2-5 év",
 	"kep": "https://barsonyj.github.io/json/kisallat/menyet.jpg"
   },
   {
     "id": 3,
     "fajta": "Hörcsög",
     "leiras": "A hörcsög egy apró rágcsáló, amely pofazacskóiban képes tárolni az élelmet. Főként magvakkal és zöldségekkel táplálkozik, és éjszaka a legaktívabb. Rövid életciklusa ellenére rendkívül szapora, gyorsan növekedő populációt alkothat.",
-    "eltkor": "2-3 év"
+    "eletkor": "2-3 év",
 	"kep": "https://barsonyj.github.io/json/kisallat/horcsog.jpg"
   },
   {
     "id": 4,
     "fajta": "Csincsilla",
     "leiras": "A csincsilla egy vastag bundájú, nagy ugróképességű rágcsáló, amely a dél-amerikai hegyvidékeken őshonos. Bundája a világ egyik legsűrűbbje, ami miatt nagyon értékes, és emiatt veszélyeztetetté is vált. Éjszakai életmódot folytat, és főként növényi táplálékot fogyaszt.",
-    "eltkor": "10-15 év"
+    "eletkor": "10-15 év",
 	"kep": "https://barsonyj.github.io/json/kisallat/csincsilla.jpg"
   },
   {
     "id": 5,
     "fajta": "Sün",
     "leiras": "A sün egy tüskékkel borított rovarevő, amely éjszaka aktív és gyakran elrejtőzik a bozótosban. Tüskéi védelmet nyújtanak a ragadozók ellen, és veszély esetén összegömbölyödik. Főként rovarokkal, csigákkal és kisebb gerinctelenekkel táplálkozik.",
-    "eltkor": "3-7 év"
+    "eletkor": "3-7 év",
 	"kep": "https://barsonyj.github.io/json/kisallat/sun.jpg"
   },
   {
     "id": 6,
     "fajta": "Mókus",
     "leiras": "A mókus egy fürge, fákon élő rágcsáló, amely hosszú farkával segíti egyensúlyozását. Főként magvakat, dióféléket és gyümölcsöket fogyaszt, és télire elraktározza az élelmet. Kiváló ugró- és mászóképességével gyorsan mozog az ágak között.",
-    "eltkor": "6-12 év"
+    "eletkor": "6-12 év",
 	"kep": "https://barsonyj.github.io/json/kisallat/mokus.jpg"
   },
   {
     "id": 7,
     "fajta": "Görény",
     "leiras": "A görény egy hosszúkás testű ragadozó, amely főként kisebb emlősökre és madarakra vadászik. Domesztikált változata házi kedvencként is tartható, és játékos, kíváncsi természetéről ismert. Képes alagutakban és szűk helyeken is ügyesen mozogni.",
-    "eltkor": "5-10 év"
+    "eletkor": "5-10 év",
 	"kep": "https://barsonyj.github.io/json/kisallat/goreny.jpg"
   },
   {
     "id": 8,
     "fajta": "Tengerimalac",
     "leiras": "A tengerimalac egy barátságos és társaságkedvelő rágcsáló, amelyet gyakran házi kedvencként tartanak. C-vitaminra van szüksége az egészséges élethez, mivel szervezete nem tudja előállítani. Növényevő, és főként friss zöldségekkel, szénával és magvakkal táplálkozik.",
-    "eltkor": "4-8 év"
+    "eletkor": "4-8 év",
 	"kep": "https://barsonyj.github.io/json/kisallat/tengerimalac.jpg"
   }
 ]
