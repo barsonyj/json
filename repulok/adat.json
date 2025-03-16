@@ -1,0 +1,26 @@
+[
+ { "kategoria":"Repülők", "kepek":[
+   "https://barsonyj.github.io/json/repulok/repulo01.jpg",
+   "https://barsonyj.github.io/json/repulok/repulo02.jpg",
+   "https://barsonyj.github.io/json/repulok/repulo03.jpg",
+   "https://barsonyj.github.io/json/repulok/repulo04.jpg",
+   "https://barsonyj.github.io/json/repulok/repulo05.jpg",
+   "https://barsonyj.github.io/json/repulok/repulo06.jpg"
+ ]},k
+ { "kategoria":"Belső terek", "kepek":[
+    "https://barsonyj.github.io/json/repulok/belso01.jpg",
+    "https://barsonyj.github.io/json/repulok/belso02.jpg",
+    "https://barsonyj.github.io/json/repulok/belso03.jpg",
+    "https://barsonyj.github.io/json/repulok/belso04.jpg",
+    "https://barsonyj.github.io/json/repulok/belso05.jpg"
+  ]},
+  { "kategoria":"Pilótafülke", "kepek":[
+    "https://barsonyj.github.io/json/repulok/pilota01.jpg",
+    "https://barsonyj.github.io/json/repulok/pilota02.jpg",
+    "https://barsonyj.github.io/json/repulok/pilota03.jpg",
+    "https://barsonyj.github.io/json/repulok/pilota04.jpg",
+    "https://barsonyj.github.io/json/repulok/pilota05.jpg",
+    "https://barsonyj.github.io/json/repulok/pilota06.jpg",
+    "https://barsonyj.github.io/json/repulok/pilota07.jpg"
+  ]}
+]
