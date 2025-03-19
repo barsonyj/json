@@ -1,8 +1,8 @@
 [
-  { id:1, kep:"https://github.com/barsonyj/json/parok/boy0.png", nev:"János" },
-  { id:2, kep:"https://github.com/barsonyj/json/parok/boy1.png", nev:"Zoltán" },
-  { id:3, kep:"https://github.com/barsonyj/json/parok/boy2.png", nev:"Máté" },
-  { id:4, kep:"https://github.com/barsonyj/json/parok/boy3.png", nev:"Kevin" },
-  { id:5, kep:"https://github.com/barsonyj/json/parok/boy4.png", nev:"Sándor" },
-  { id:6, kep:"https://github.com/barsonyj/json/parok/boy5.png", nev:"Béla" }
+  { "id":1, "kep":"https://barsonyj.github.io/json/parok/boy0.png", "nev":"János" },
+  { "id":2, "kep":"https://barsonyj.github.io/json/parok/boy1.png", "nev":"Zoltán" },
+  { "id":3, "kep":"https://barsonyj.github.io/json/parok/boy2.png", "nev":"Máté" },
+  { "id":4, "kep":"https://barsonyj.github.io/json/parok/boy3.png", "nev":"Kevin" },
+  { "id":5, "kep":"https://barsonyj.github.io/json/parok/boy4.png", "nev":"Sándor" },
+  { "id":6, "kep":"https://barsonyj.github.io/json/parok/boy5.png", "nev":"Béla" }
 ]
