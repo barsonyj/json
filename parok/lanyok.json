@@ -1,0 +1,9 @@
+[
+  { "id":1, "kep":"https://barsonyj.github.io/json/parok/girl0.png", "nev":"Anna" },
+  { "id":2, "kep":"https://barsonyj.github.io/json/parok/girl1.png", "nev":"Erika" },
+  { "id":3, "kep":"https://barsonyj.github.io/json/parok/girl2.png", "nev":"Panna" },
+  { "id":4, "kep":"https://barsonyj.github.io/json/parok/girl3.png", "nev":"Izolda" },
+  { "id":5, "kep":"https://barsonyj.github.io/json/parok/girl4.png", "nev":"Vilma" },
+  { "id":6, "kep":"https://barsonyj.github.io/json/parok/girl5.png", "nev":"Margit" },
+  { "id":7, "kep":"https://barsonyj.github.io/json/parok/girl6.png", "nev":"Sára" }
+]
