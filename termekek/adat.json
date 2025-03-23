@@ -1,0 +1,8 @@
+[
+    { "id":1, "nev":"Autó", "kep":"https://barsonyj.github.io/json/termekek/auto.png", "leiras":"Kényelmes utazás" },
+    { "id":2, "nev":"Bicikli", "kep":"https://barsonyj.github.io/json/termekek/bicikli.png", "leiras":"" },
+    { "id":3, "nev":"Boci", "kep":https://barsonyj.github.io/json/termekek/boci.png", "leiras":"" },
+    { "id":4, "nev":"Csirke", "kep":"https://barsonyj.github.io/json/termekek/csirke.png", "leiras":"" },
+    { "id":5, "nev":"Doboz", "kep":"https://barsonyj.github.io/json/termekek/doboz.png", "leiras":"Tárolóhely holmik számára" },
+    { "id":6, "nev":"Ébresztő óra", "kep":"https://barsonyj.github.io/json/termekek/ebreszto.png", "leiras":"Hatásos eszköz hétalvóknak" }
+]
