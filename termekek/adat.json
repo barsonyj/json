@@ -19,5 +19,5 @@
     { "id":18, "nev":"Szerencse", "ar":9990, "kep":"https://barsonyj.github.io/json/termekek/szerencse.png", "leiras":"Ha épp nem sikerül..." },
     { "id":19, "nev":"Traktor", "ar":3590000, "kep":"https://barsonyj.github.io/json/termekek/traktor.png", "leiras":"Gazdáknak, most akcióban!" },
     { "id":20, "nev":"Tűzoltó autó", "ar":59000000, "kep":"https://barsonyj.github.io/json/termekek/tuzolto.png", "leiras":"Locsoláshoz, tűzoltáshoz" },
-    { "id":21, "nev":"Zöldalma", "ar":250, "kep":"https://barsonyj.github.io/json/termekek/zoldalma.png", "leiras":"Jobb, mint a piros!" },
+    { "id":21, "nev":"Zöldalma", "ar":250, "kep":"https://barsonyj.github.io/json/termekek/zoldalma.png", "leiras":"Jobb, mint a piros!" }
 ]
