@@ -1,0 +1,23 @@
+[
+ { "jo":"spaceship", "rossz":"water", "kep":"https://barsonyj.github.io/json/angol/spaceship.png" },
+ { "jo":"mouse", "rossz":"cursor", "kep":"https://barsonyj.github.io/json/angol/mouse.png" },
+ { "jo":"apple", "rossz":"peach", "kep":"https://barsonyj.github.io/json/angol/apple.png" },
+ { "jo":"dog", "rossz":"cat", "kep":"https://barsonyj.github.io/json/angol/dog.png" },
+ { "jo":"cat", "rossz":"macs", "kep":"https://barsonyj.github.io/json/angol/cat.png" },
+ { "jo":"flower", "rossz":"wind", "kep":"https://barsonyj.github.io/json/angol/flower.png" },
+ { "jo":"car", "rossz":"bicycle", "kep":"https://barsonyj.github.io/json/angol/car.png" },
+ { "jo":"helicopter", "rossz":"helipotter", "kep":"https://barsonyj.github.io/json/angol/helicopter.png" },
+ { "jo":"rain", "rossz":"train", "kep":"https://barsonyj.github.io/json/angol/rain.png" },
+ { "jo":"cheese", "rossz":"mouse", "kep":"https://barsonyj.github.io/json/angol/cheese.png" },
+ { "jo":"lion", "rossz":"leon", "kep":"https://barsonyj.github.io/json/angol/lion.png" },
+ { "jo":"star", "rossz":"square", "kep":"https://barsonyj.github.io/json/angol/star.png" },
+ { "jo":"book", "rossz":"window", "kep":"https://barsonyj.github.io/json/angol/book.png" },
+ { "jo":"icecream", "rossz":"table", "kep":"https://barsonyj.github.io/json/angol/icecream.png" },
+ { "jo":"heart", "rossz":"flower", "kep":"https://barsonyj.github.io/json/angol/heart.png" },
+ { "jo":"house", "rossz":"horse", "kep":"https://barsonyj.github.io/json/angol/house.png" },
+ { "jo":"lock", "rossz":"key", "kep":"https://barsonyj.github.io/json/angol/lock.png" },
+ { "jo":"tree", "rossz":"three", "kep":"https://barsonyj.github.io/json/angol/tree.png" },
+ { "jo":"monkey", "rossz":"donkey", "kep":"https://barsonyj.github.io/json/angol/monkey.png" },
+ { "jo":"ant", "rossz":"spider", "kep":"https://barsonyj.github.io/json/angol/ant.png" },
+ { "jo":"bird", "rossz":"lamp", "kep":"https://barsonyj.github.io/json/angol/bird.png" }
+]
