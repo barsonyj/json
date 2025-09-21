@@ -1,5 +1,5 @@
 [
- { "fajta":"Fa", "url":"https://barsonyj.github.io/json/noveny/fa.json" },
- { "fajta":"Virág", "url":"https://barsonyj.github.io/json/noveny/virag.json" },
- { "fajta":"Bokor", "url":"https://barsonyj.github.io/json/noveny/bokor.json" }
+ { "fajta":"Fa", "url":"https://barsonyj.github.io/json/noveny/fa.json", "kep":"https://barsonyj.github.io/json/noveny/fa.jpg" },
+ { "fajta":"Virág", "url":"https://barsonyj.github.io/json/noveny/virag.json", "kep":"https://barsonyj.github.io/json/noveny/virag.jpg" },
+ { "fajta":"Bokor", "url":"https://barsonyj.github.io/json/noveny/bokor.json", "kep":"https://barsonyj.github.io/json/noveny/bokor.jpg" }
 ]
