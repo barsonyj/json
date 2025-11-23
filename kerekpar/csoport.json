@@ -1,0 +1,5 @@
+[
+ { "csaz":1, "csoport":"City Kerékpár", "leiras":"A városi kerékpárok kifejezetten városi környezetben való közlekedésre készültek. Kényelmesek, tartósak és egyszerűen kezelhetők. Sok városi kerékpár rendelkezik kosárral, csomagtartóval és sárvédőkkel, amelyek praktikusak a mindennapi használat során." },
+ { "csaz":2, "csoport":"Trekking kerékpár", "leiras":"A trekking kerékpárok a hegyi és az országúti kerékpárok hibrid változatai. Kényelmesek, sokoldalúak és hosszú távú túrákra, valamint napi közlekedésre is alkalmasak. Jellemzően erős vázzal, kényelmes üléssel és több sebességfokozattal rendelkeznek." },
+ { "csaz":3, "csoport":"Mountain Bike", "leiras":"A mountain bikeok, más néven hegyi kerékpárok, kifejezetten terepre, hegyi utakra és ösvényekre készültek. Masszív felépítésük, vastag gumijuk és erős felfüggesztésük miatt kiválóan alkalmasak a durva terepviszonyokhoz." }
+]
