@@ -1,0 +1,5 @@
+[
+ { "kaz":2, "csoport":2, "tipus":"Kellys Carson", "kep":"https://barsonyj.github.io/json/kerekpar/Kellys_Carson.jpg" },
+ { "kaz":3, "csoport":2, "tipus":"Kross Trans", "kep":"https://barsonyj.github.io/json/kerekpar/Kross_Trans.jpg" },
+ { "kaz":9, "csoport":2, "tipus":"Stevens Jazz Gent", "kep":"https://barsonyj.github.io/json/kerekpar/Stevens_Jazz_Gent.jpg" }
+]
