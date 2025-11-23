@@ -1,0 +1,11 @@
+[
+ { "kaz":1, "csoport":1, "tipus":"Cross Prolog XXL", "kep":"https://barsonyj.github.io/json/kerekpar/Cross_Prolog_XXL.jpg" },
+ { "kaz":2, "csoport":2, "tipus":"Kellys Carson", "kep":"https://barsonyj.github.io/json/kerekpar/Kellys_Carson.jpg" },
+ { "kaz":3, "csoport":2, "tipus":"Kross Trans", "kep":"https://barsonyj.github.io/json/kerekpar/Kross_Trans.jpg" },
+ { "kaz":4, "csoport":3, "tipus":"KTM Myroon Elite 2023", "kep":"https://barsonyj.github.io/json/kerekpar/KTM_Myroon_Elite_2023.jpg" },
+ { "kaz":5, "csoport":3, "tipus":"KTM Myroon Prime 2023", "kep":"https://barsonyj.github.io/json/kerekpar/KTM_Myroon_Prime_2023.jpg" },
+ { "kaz":6, "csoport":3, "tipus":"Merida 2024 BIG.NINE XT", "kep":"https://barsonyj.github.io/json/kerekpar/Merida_2024_BIG.NINE_XT.jpg" },
+ { "kaz":7, "csoport":1, "tipus":"Romet Art Deco Lux 2022", "kep":"https://barsonyj.github.io/json/kerekpar/Romet_Art_Deco_Lux_2022.jpg" },
+ { "kaz":8, "csoport":1, "tipus":"Stevens Boulevard Luxe", "kep":"https://barsonyj.github.io/json/kerekpar/Stevens_Boulevard_Luxe.jpg" },
+ { "kaz":9, "csoport":2, "tipus":"Stevens Jazz Gent", "kep":"https://barsonyj.github.io/json/kerekpar/Stevens_Jazz_Gent.jpg" }
+]
