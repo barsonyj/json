@@ -1,0 +1,11 @@
+[
+ { "csoport":"City Kerékpár", "tipus":"Cross Prolog XXL", "kep":"https://barsonyj.github.io/json/kerekpar/Cross_Prolog_XXL.jpg" },
+ { "csoport":"Trekking kerékpár", "tipus":"Kellys Carson", "kep":"https://barsonyj.github.io/json/kerekpar/Kellys_Carson.jpg" },
+ { "csoport":"Trekking kerékpár", "tipus":"Kross Trans", "kep":"https://barsonyj.github.io/json/kerekpar/Kross_Trans.jpg" },
+ { "csoport":" Mountain Bike ", "tipus":"KTM Myroon Elite 2023", "kep":"https://barsonyj.github.io/json/kerekpar/KTM_Myroon_Elite_2023.jpg" },
+ { "csoport":" Mountain Bike ", "tipus":"KTM Myroon Prime 2023", "kep":"https://barsonyj.github.io/json/kerekpar/KTM_Myroon_Prime_2023.jpg" },
+ { "csoport":" Mountain Bike ", "tipus":"Merida 2024 BIG.NINE XT", "kep":"https://barsonyj.github.io/json/kerekpar/Merida_2024_BIG.NINE_XT.jpg" },
+ { "csoport":"City Kerékpár", "tipus":"Romet Art Deco Lux 2022", "kep":"https://barsonyj.github.io/json/kerekpar/Romet_Art_Deco_Lux_2022.jpg" },
+ { "csoport":"City Kerékpár", "tipus":"Stevens Boulevard Luxe", "kep":"https://barsonyj.github.io/json/kerekpar/Stevens_Boulevard_Luxe.jpg" },
+ { "csoport":"Trekking kerékpár", "tipus":"Stevens Jazz Gent", "kep":"https://barsonyj.github.io/json/kerekpar/Stevens_Jazz_Gent.jpg" }
+]
