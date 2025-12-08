@@ -1,0 +1,12 @@
+[
+ { "nev":"Boci", "kaloria":200, "suly":20, "toltelek":"Semmi", "tej":"I" },
+ { "nev":"Balaton", "kaloria":190, "suly":22, "toltelek":"Semmi", "tej":"N" },
+ { "nev":"Bounty", "kaloria":270, "suly":30, "toltelek":"Kókusz", "tej":"I" },
+ { "nev":"Twix", "kaloria":310, "suly":25, "toltelek":"Méz", "tej":"I" },
+ { "nev":"Mars", "kaloria":500, "suly":32, "toltelek":"Mogyoró", "tej":"I" },
+ { "nev":"Sport szelet", "kaloria":190, "suly":24, "toltelek":"Semmi", "tej":"N" },
+ { "nev":"Milka", "kaloria":240, "suly":40, "toltelek":"Semmi", "tej":"I" },
+ { "nev":"Chokito", "kaloria":350, "suly":26, "toltelek":"Mogyoró", "tej":"N" },
+ { "nev":"Nestle", "kaloria":190, "suly":28, "toltelek":"Nyúl", "tej":"N" },
+ { "nev":"3bit", "kaloria":333, "suly":33, "toltelek":"Keksz", "tej":"I" }
+]
