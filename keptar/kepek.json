@@ -2,5 +2,5 @@
  { "id":1, "nev":"Macska", "kep":"https://barsonyj.github.io/json/keptar/macska.jpg" },
  { "id":2, "nev":"Bugatti", "kep":"https://barsonyj.github.io/json/keptar/bugatti.jpg" },
  { "id":3, "nev":"Tulipán", "kep":"https://barsonyj.github.io/json/keptar/tulipan.jpg" },
- { "id":4, "nev":"T-Rex", "kep":"https://barsonyj.github.io/json/keptar/trex.jpg" }
+ { "id":4, "nev":"Piramis", "kep":"https://barsonyj.github.io/json/keptar/piramis.jpg" }
 ]
