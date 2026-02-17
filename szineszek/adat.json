@@ -1,0 +1,17 @@
+[
+ { "nev":"Kevin Bacon", "film1":"Footloose (1984)", "film2":"A Few Good Men (1992)", "film3":"Apollo 13 (1995)", "kep":"https://barsonyj.github.io/json/szineszek/Kevin_Bacon.jpg" },
+ { "nev":"Brad Pitt", "film1":"Thelma & Louise (1991)", "film2":"Se7en (1995)", "film3":"Fight Club (1999)", "kep":"https://barsonyj.github.io/json/szineszek/Brad_Pitt.jpg" },
+ { "nev":"Samuel L. Jackson", "film1":"Pulp Fiction (1994)", "film2":"Jurassic Park (1993)", "film3":"Unbreakable (2000)", "kep":"https://barsonyj.github.io/json/szineszek/Samuel_L_Jackson.jpg" },
+ { "nev":"Tom Hanks", "film1":"Forrest Gump (1994)", "film2":"Saving Private Ryan (1998)", "film3":"Cast Away (2000)", "kep":"https://barsonyj.github.io/json/szineszek/Tom_Hanks.jpg" },
+ { "nev":"Leonardo DiCaprio", "film1":"Titanic (1997)", "film2":"Inception (2010)", "film3":"The Revenant (2015)", "kep":"https://barsonyj.github.io/json/szineszek/Leonardo_DiCaprio.jpg" },
+ { "nev":"Will Smith", "film1":"Men in Black (1997)", "film2":"Ali (2001)", "film3":"I Am Legend (2007)", "kep":"https://barsonyj.github.io/json/szineszek/Will_Smith.jpg" },
+ { "nev":"Denzel Washington", "film1":"Training Day (2001)", "film2":"Malcolm X (1992)", "film3":"Fences (2016)", "kep":"https://barsonyj.github.io/json/szineszek/Denzel_Washington.jpg" },
+ { "nev":"Johnny Depp", "film1":"Edward Scissorhands (1990)", "film2":"Pirates of the Caribbean (2003)", "film3":"Sweeney Todd (2007)", "kep":"https://barsonyj.github.io/json/szineszek/Johnny_Depp.jpg" },
+ { "nev":"Scarlett Johansson", "film1":"Lost in Translation (2003)", "film2":"The Avengers (2012)", "film3":"Marriage Story (2019)", "kep":"https://barsonyj.github.io/json/szineszek/Scarlett_Johansson.jpg" },
+ { "nev":"Robert Downey Jr.", "film1":"Iron Man (2008)", "film2":"Sherlock Holmes (2009)", "film3":"Chaplin (1992)", "kep":"https://barsonyj.github.io/json/szineszek/Robert_Downey_Jr.jpg" },
+ { "nev":"Matt Damon", "film1":"Good Will Hunting (1997)", "film2":"The Martian (2015)", "film3":"Bourne Identity (2002)", "kep":"https://barsonyj.github.io/json/szineszek/Matt_Damon.jpg" },
+ { "nev":"Tom Cruise", "film1":"Top Gun (1986)", "film2":"Mission: Impossible (1996)", "film3":"Jerry Maguire (1996)", "kep":"https://barsonyj.github.io/json/szineszek/Tom_Cruise.jpg" },
+ { "nev":"Angelina Jolie", "film1":"Mr. & Mrs. Smith (2005)", "film2":"Girl Interrupted (1999)", "film3":"Maleficent (2014)", "kep":"https://barsonyj.github.io/json/szineszek/Angelina_Jolie.jpg" },
+ { "nev":"Will Ferrell", "film1":"Anchorman (2004)", "film2":"Talladega Nights (2006)", "film3":"Elf (2003)", "kep":"https://barsonyj.github.io/json/szineszek/Will_Ferrell.jpg" },
+ { "nev":"Sandra Bullock", "film1":"Speed (1994)", "film2":"The Blind Side (2009)", "film3":"Gravity (2013)", "kep":"https://barsonyj.github.io/json/szineszek/Sandra_Bullock.jpg" }
+]
