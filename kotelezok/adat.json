@@ -1,0 +1,110 @@
+[
+  {
+	"id": 1,
+    "szerzo": "Molnár Ferenc",
+    "cim": "A Pál utcai fiúk",
+    "ev": 1906,
+    "oldalak": 208,
+    "borito": "https://barsonyj.github.io/json/kotelezok/a_pal_utcai_fiuk.jpg",
+	"leiras": "Molnár Ferenc ifjúsági regénye a budapesti grundért vívott harcot mutatja be két fiúcsapat, a Pál utcaiak és a vörösingesek között. A történet középpontjában a hűséges és önfeláldozó Nemecsek Ernő áll, aki erején felül bizonyítja bátorságát társai előtt. A konfliktusok során a barátság, a becsület és az összetartás értékei kerülnek előtérbe. A regény tragikus vége megrendítően ábrázolja, milyen súlyos következményei lehetnek a gyermeki vetélkedésnek."
+  },
+  {
+    "id": 2,
+	"szerzo": "Gárdonyi Géza",
+    "cim": "Egri csillagok",
+    "ev": 1899,
+    "oldalak": 600,
+    "borito": "https://barsonyj.github.io/json/kotelezok/egri_csillagok.jpg",
+	"leiras": "Gárdonyi Géza történelmi regénye a 16. századi török–magyar harcok idején játszódik, középpontjában Eger várának hősies védelmével. A cselekmény Dobó István és a fiatal Bornemissza Gergely sorsát követi, aki találékonyságával és bátorságával segíti a vár védőit. A regény bemutatja a szerelem, a hazaszeretet és az önfeláldozás erejét is, különösen Gergely és Cecey Éva kapcsolatán keresztül. A mű csúcspontja az 1552-es ostrom, ahol a maroknyi magyar sereg sikeresen visszaveri a túlerőben lévő török hadakat."
+  },
+  {
+    "id": 3,
+	"szerzo": "Móricz Zsigmond",
+    "cim": "Légy jó mindhalálig",
+    "ev": 1920,
+    "oldalak": 300,
+    "borito": "https://barsonyj.github.io/json/kotelezok/legy_jo_mindhalalig.jpg",
+	"leiras": "Móricz Zsigmond regénye a tiszta lelkű Nyilas Misi történetét meséli el, aki debreceni kollégiumba kerül tanulni. A naiv és érzékeny fiú nehezen igazodik el a felnőttek és diáktársai világában, ahol gyakran igazságtalanság éri. A történet középpontjában Misi lelki vívódása és erkölcsi tisztasága áll. A mű megrendítően mutatja be, milyen nehéz megőrizni a jóságot és becsületességet egy kemény, sokszor kegyetlen közegben."
+  },
+  {
+    "id": 4,
+	"szerzo": "Jókai Mór",
+    "cim": "Az arany ember",
+    "ev": 1872,
+    "oldalak": 650,
+    "borito": "https://barsonyj.github.io/json/kotelezok/az_arany_ember.jpg",
+	"leiras": "Jókai Mór regénye Tímár Mihály történetét meséli el, aki egy váratlan kincs révén gazdag és megbecsült emberré válik. Bár külsőleg sikeres életet él, belső vívódás gyötri, mert két világ és két nő – a társadalmi rangot képviselő Tímea és az idilli Senki szigetén élő Noémi – között őrlődik. A mű központi témája a boldogság keresése, az erkölcsi felelősség és a látszat és valóság ellentéte. A történet végén Tímár hátat fordít a társadalmi életnek, és a természetes, őszinte boldogságot választja."
+  },
+  {
+    "id": 5,
+	"szerzo": "Madách Imre",
+    "cim": "Az ember tragédiája",
+    "ev": 1861,
+    "oldalak": 150,
+    "borito": "https://barsonyj.github.io/json/kotelezok/az_ember_tragediaja.jpg",
+	"leiras": "Madách Imre drámai költeménye Ádám és Éva történetén keresztül az emberiség sorsát és a történelem értelmét vizsgálja. Lucifer különböző korokon vezeti végig Ádámot az ókori Egyiptomtól a jövő falanszteréig, hogy bebizonyítsa az emberi törekvések hiábavalóságát. A színek sorra mutatják be az eszmék – szabadság, tudás, hatalom – bukását és torzulását. A mű végső üzenete mégis a küzdés és a remény fontossága, amelyet az Úr biztatása foglal össze: „Ember, küzdj és bízva bízzál!”"
+  },
+  {
+    "id": 6,
+	"szerzo": "Katona József",
+    "cim": "Bánk bán",
+    "ev": 1815,
+    "oldalak": 140,
+    "borito": "https://barsonyj.github.io/json/kotelezok/bank_ban.jpg",
+	"leiras": "Katona József drámája a 13. századi Magyarországon játszódik, II. Endre távolléte idején. A nádor, Bánk, vívódik hazája iránti hűsége és személyes sérelmei között, miután Gertrudis királyné udvara visszaéléseket követ el, és feleségét, Melindát is meggyalázzák. A felgyülemlett indulat végül tragédiába torkollik: Bánk megöli a királynét. A mű központi kérdése a haza és a magánélet konfliktusa, valamint a felelősség és bűn tragikus terhe."
+  },
+  {
+    "id": 7,
+	"szerzo": "William Shakespeare",
+    "cim": "Rómeó és Júlia",
+    "ev": 1597,
+    "oldalak": 200,
+    "borito": "https://barsonyj.github.io/json/kotelezok/romeo_es_julia.jpg",
+	"leiras": "William Shakespeare tragédiája két ellenséges veronai család, a Montague-ok és a Capulet-ek gyermekének szerelmét mutatja be. Rómeó és Júlia titokban összeházasodnak, de kapcsolatukat a családi viszály és végzetes félreértések sodorják veszélybe. A konfliktusok sorozata végül mindkettőjük halálához vezet. Tragédiájuk hatására a két család kibékül, így szerelmük békét teremt a viszály után."
+  },
+  {
+    "id": 8,
+	"szerzo": "Homérosz",
+    "cim": "Odüsszeia",
+    "ev": -800,
+    "oldalak": 350,
+    "borito": "https://barsonyj.github.io/json/kotelezok/odusszeia.jpg",
+	"leiras": "Odüsszeia, amelyet a hagyomány szerint Homérosz írt, Odüsszeusz hosszú hazatérésének történetét meséli el a trójai háború után. A hős tíz éven át bolyong, miközben számos veszéllyel néz szembe, például küklópszokkal, varázslónőkkel és tengeri szörnyekkel. Ithakában eközben felesége, Pénelopé hűségesen várja, miközben kérők ostromolják a palotát. Odüsszeusz végül hazatér, legyőzi a kérőket, és visszaszerzi családját és királyságát."
+  },
+  {
+    "id": 9,
+	"szerzo": "Szophoklész",
+    "cim": "Antigoné",
+    "ev": -441,
+    "oldalak": 100,
+    "borito": "https://barsonyj.github.io/json/kotelezok/antigone.jpg",
+	"leiras": "Szophoklész tragédiája Théba városában játszódik, ahol Antigoné bátyja, Polüneikész, ellen lázadóként elesett, és Kreón király megtagadja tőle a tisztességes temetést. Antigoné a király parancsával szembeszállva eltemeti testvérét, ami miatt fogságra ítélik. A történet során a családi kötelesség és az állami törvény konfliktusa kerül előtérbe. Antigoné halála tragikus következményekkel jár, és Kreón is elveszíti fiait és feleségét, így a hatalom és a büszkeség ára drámaian megmutatkozik."
+  },
+  {
+    "id": 10,
+	"szerzo": "Voltaire",
+    "cim": "Candide",
+    "ev": 1759,
+    "oldalak": 150,
+    "borito": "https://barsonyj.github.io/json/kotelezok/candide.jpg",
+	"leiras": "Voltaire regénye egy naiv fiatalember történetét követi, aki mestere, Pangloss filozófiáját próbálja követni: „minden a legjobban van a világon”. Sorozatos balszerencsék és kalandok során Candide megtapasztalja a háborút, a természeti katasztrófákat és az emberi gonoszságot. A történet során humorral és iróniával Voltaire a társadalmi és filozófiai problémákat kritizálja. Végül Candide rájön, hogy a boldogság kulcsa a cselekvő munka és a saját kertje gondozása, nem pedig az idealizált filozófiai elméletek."
+  },
+  {
+    "id": 11,
+	"szerzo": "Honoré de Balzac",
+    "cim": "Goriot apó",
+    "ev": 1835,
+    "oldalak": 300,
+    "borito": "https://barsonyj.github.io/json/kotelezok/goriot_apo.jpg",
+	"leiras": "Balzac regénye a párizsi társadalom kegyetlenségét és az ambíciók árnyoldalát mutatja be. A történet középpontjában Vautrin, Eugène de Rastignac és a szegény öreg Goriot áll, aki odaadóan szereti lányait, ám azok hálátlanok vele szemben. A mű feltárja a társadalmi felemelkedés és a pénz világának igazságtalanságait, miközben a családi szeretet és az önfeláldozás tragikus sorsát is bemutatja. Goriot halála mélyen megrendíti a fiatal Rastignacot, aki ekkor dönti el, hogy a világban érvényesülni fog."
+  },
+  {
+    "id": 12,
+	"szerzo": "Örkény István",
+    "cim": "Tóték",
+    "ev": 1967,
+    "oldalak": 120,
+    "borito": "https://barsonyj.github.io/json/kotelezok/totek.jpg",
+	"leiras": "Örkény István tragikomikus színműve egy vidéki család történetét mutatja be a második világháború idején. A Tót család életét felbolygatja egy katonatiszt, aki hosszú időre megszállja otthonukat. A darab a háború abszurditását és a mindennapi ember kiszolgáltatottságát ironikus, fekete humorral ábrázolja. A konfliktusok és a feszültségek végül tragikomikus helyzeteket eredményeznek, miközben a család próbálja megőrizni emberi méltóságát."
+  }
+]
