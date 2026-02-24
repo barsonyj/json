@@ -17,14 +17,6 @@
   },
   {
     "id": 3,
-    "nev": "Velociraptor",
-    "suly": 0.02,
-    "magas": 0.5,
-    "leiras": "A Velociraptor kisebb termetű ragadozó volt. Gyors mozgásáról és éles karmairól ismert. Valószínűleg toll borította a testét. Csoportosan vadászhatott zsákmányára. Fosszíliáit Mongóliában találták meg.",
-	  "kep":"https://barsonyj.github.io/json/dinok/velociraptor.jpg"
-  },
-  {
-    "id": 4,
     "nev": "Brachiosaurus",
     "suly": 50,
     "magas": 13,
@@ -32,7 +24,7 @@
 	  "kep":"https://barsonyj.github.io/json/dinok/brachiosaurus.jpg"
   },
   {
-    "id": 5,
+    "id": 4,
     "nev": "Stegosaurus",
     "suly": 7,
     "magas": 4,
@@ -40,7 +32,7 @@
 	  "kep":"https://barsonyj.github.io/json/dinok/stegosaurus.jpg"
   },
   {
-    "id": 6,
+    "id": 5,
     "nev": "Spinosaurus",
     "suly": 9,
     "magas": 7,
@@ -48,7 +40,7 @@
 	  "kep":"https://barsonyj.github.io/json/dinok/spinosaurus.jpg"
   },
   {
-    "id": 7,
+    "id": 6,
     "nev": "Ankylosaurus",
     "suly": 6,
     "magas": 2,
@@ -56,7 +48,7 @@
 	  "kep":"https://barsonyj.github.io/json/dinok/ankylosaurus.jpg"
   },
   {
-    "id": 8,
+    "id": 7,
     "nev": "Allosaurus",
     "suly": 2,
     "magas": 5,
@@ -64,7 +56,7 @@
 	  "kep":"https://barsonyj.github.io/json/dinok/allosaurus.jpg"
   },
   {
-    "id": 9,
+    "id": 8,
     "nev": "Diplodocus",
     "suly": 15,
     "magas": 4,
@@ -72,7 +64,7 @@
 	  "kep":"https://barsonyj.github.io/json/dinok/diplodocus.jpg"
   },
   {
-    "id": 10,
+    "id": 9,
     "nev": "Iguanodon",
     "suly": 3,
     "magas": 3,
@@ -80,15 +72,15 @@
 	  "kep":"https://barsonyj.github.io/json/dinok/iguanodon.jpg"
   },
   {
-    "id": 11,
+    "id": 10,
     "nev": "Carnotaurus",
-    "suly": 1.5,
+    "suly": 1,
     "magas": 3,
     "leiras": "A Carnotaurus fején két rövid szarv volt. Karjai rendkívül rövidek voltak. Gyors futó lehetett. Ragadozó életmódot folytatott. Dél-Amerikában találták meg fosszíliáit.",
 	  "kep":"https://barsonyj.github.io/json/dinok/carnotaurus.jpg"
   },
   {
-    "id": 12,
+    "id": 11,
     "nev": "Giganotosaurus",
     "suly": 8,
     "magas": 6,
@@ -96,15 +88,15 @@
 	  "kep":"https://barsonyj.github.io/json/dinok/giganotosaurus.jpg"
   },
   {
-    "id": 13,
+    "id": 12,
     "nev": "Parasaurolophus",
-    "suly": 3.5,
+    "suly": 3,
     "magas": 4,
     "leiras": "A Parasaurolophus hosszú, hátranyúló tarajjal rendelkezett. Növényevő dinoszaurusz volt. A taraj hangadásra is szolgálhatott. A kréta időszakban élt. Csordákban mozoghatott.",
 	  "kep":"https://barsonyj.github.io/json/dinok/parasaurolophus.jpg"
   },
   {
-    "id": 14,
+    "id": 13,
     "nev": "Pachycephalosaurus",
     "suly": 2,
     "magas": 4,
@@ -112,7 +104,7 @@
 	  "kep":"https://barsonyj.github.io/json/dinok/pachycephalosaurus.jpg"
   },
   {
-    "id": 15,
+    "id": 14,
     "nev": "Therizinosaurus",
     "suly": 5,
     "magas": 5,
@@ -120,7 +112,7 @@
 	  "kep":"https://barsonyj.github.io/json/dinok/therizinosaurus.jpg"
   },
   {
-    "id": 16,
+    "id": 15,
     "nev": "Megalosaurus",
     "suly": 1,
     "magas": 3,
@@ -128,7 +120,7 @@
 	  "kep":"https://barsonyj.github.io/json/dinok/megalosaurus.jpg"
   },
   {
-    "id": 17,
+    "id": 16,
     "nev": "Plateosaurus",
     "suly": 4,
     "magas": 5,
