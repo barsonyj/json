@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "nev": "Tyrannosaurus rex",
+    "suly": 8,
+    "magas": 6,
+    "leiras": "A Tyrannosaurus rex a kréta időszak egyik legismertebb ragadozója volt. Erős állkapcsa hatalmas harapóerővel rendelkezett. Rövid mellső lábai ellenére rendkívül veszélyes vadász volt. Két lábon járt és erős farkával tartotta egyensúlyát. Fosszíliáit főként Észak-Amerikában találták meg.",
+	  "kep":"https://barsonyj.github.io/json/dinok/tyrannosaurus_rex.jpg"
+  },
+  {
+    "id": 2,
+    "nev": "Triceratops",
+    "suly": 12,
+    "magas": 3,
+    "leiras": "A Triceratops növényevő dinoszaurusz volt. Három szarv és csontos gallér védte a fejét. Erős csőrszerű szája alkalmas volt a kemény növények fogyasztására. Csordákban élhetett a kréta időszak végén. Maradványait Észak-Amerikában fedezték fel.",
+	  "kep":"https://barsonyj.github.io/json/dinok/triceratops.jpg"	
+  },
+  {
+    "id": 3,
+    "nev": "Velociraptor",
+    "suly": 0.02,
+    "magas": 0.5,
+    "leiras": "A Velociraptor kisebb termetű ragadozó volt. Gyors mozgásáról és éles karmairól ismert. Valószínűleg toll borította a testét. Csoportosan vadászhatott zsákmányára. Fosszíliáit Mongóliában találták meg.",
+	  "kep":"https://barsonyj.github.io/json/dinok/velociraptor.jpg"
+  },
+  {
+    "id": 4,
+    "nev": "Brachiosaurus",
+    "suly": 50,
+    "magas": 13,
+    "leiras": "A Brachiosaurus hatalmas növényevő dinoszaurusz volt. Hosszú nyaka lehetővé tette a magas fák lombjának elérését. Elülső lábai hosszabbak voltak, mint a hátsók. A jura időszakban élt. Maradványait Észak-Amerikában és Afrikában találták meg.",
+	  "kep":"https://barsonyj.github.io/json/dinok/brachiosaurus.jpg"
+  },
+  {
+    "id": 5,
+    "nev": "Stegosaurus",
+    "suly": 7,
+    "magas": 4,
+    "leiras": "A Stegosaurus hátán jellegzetes csontos lemezek sorakoztak. Farka végén tüskék helyezkedtek el védekezés céljából. Növényevő életmódot folytatott. A jura időszakban élt. Kis agymérete ellenére sikeresen alkalmazkodott környezetéhez.",
+	  "kep":"https://barsonyj.github.io/json/dinok/stegosaurus.jpg"
+  },
+  {
+    "id": 6,
+    "nev": "Spinosaurus",
+    "suly": 9,
+    "magas": 7,
+    "leiras": "A Spinosaurus hátán vitorlaszerű képződmény volt. Félig vízi életmódot is folytathatott. Hosszú, krokodilszerű állkapcsa halak elfogására is alkalmas volt. A kréta időszakban élt. Fosszíliáit Észak-Afrikában találták meg.",
+	  "kep":"https://barsonyj.github.io/json/dinok/spinosaurus.jpg"
+  },
+  {
+    "id": 7,
+    "nev": "Ankylosaurus",
+    "suly": 6,
+    "magas": 2,
+    "leiras": "Az Ankylosaurus testét vastag páncél borította. Farka végén bunkószerű csontkinövés volt. Növényevő dinoszaurusz volt. Alacsony növényzetet fogyasztott. A kréta időszak végén élt.",
+	  "kep":"https://barsonyj.github.io/json/dinok/ankylosaurus.jpg"
+  },
+  {
+    "id": 8,
+    "nev": "Allosaurus",
+    "suly": 2,
+    "magas": 5,
+    "leiras": "Az Allosaurus nagytestű ragadozó volt. Éles fogai és karmai segítették a vadászatban. A jura időszakban élt. Valószínűleg csapatban is vadászhatott. Fosszíliáit Észak-Amerikában találták meg.",
+	  "kep":"https://barsonyj.github.io/json/dinok/allosaurus.jpg"
+  },
+  {
+    "id": 9,
+    "nev": "Diplodocus",
+    "suly": 15,
+    "magas": 4,
+    "leiras": "A Diplodocus hosszú nyakú és farkú növényevő volt. Teste karcsúbb volt más sauropodákhoz képest. A jura időszakban élt. Hatalmas csordákban vándorolhatott. Maradványait Észak-Amerikában fedezték fel.",
+	  "kep":"https://barsonyj.github.io/json/dinok/diplodocus.jpg"
+  },
+  {
+    "id": 10,
+    "nev": "Iguanodon",
+    "suly": 3,
+    "magas": 3,
+    "leiras": "Az Iguanodon az egyik elsőként felfedezett dinoszaurusz volt. Hüvelykujján tüskeszerű kinövés volt. Növényevő életmódot folytatott. Képes volt két és négy lábon is járni. A kréta időszak elején élt.",
+	  "kep":"https://barsonyj.github.io/json/dinok/iguanodon.jpg"
+  },
+  {
+    "id": 11,
+    "nev": "Carnotaurus",
+    "suly": 1.5,
+    "magas": 3,
+    "leiras": "A Carnotaurus fején két rövid szarv volt. Karjai rendkívül rövidek voltak. Gyors futó lehetett. Ragadozó életmódot folytatott. Dél-Amerikában találták meg fosszíliáit.",
+	  "kep":"https://barsonyj.github.io/json/dinok/carnotaurus.jpg"
+  },
+  {
+    "id": 12,
+    "nev": "Giganotosaurus",
+    "suly": 8,
+    "magas": 6,
+    "leiras": "A Giganotosaurus az egyik legnagyobb szárazföldi ragadozó volt. Hosszú koponyája tele volt éles fogakkal. A kréta időszakban élt. Valószínűleg nagy zsákmányra vadászott. Maradványait Argentínában találták meg.",
+	  "kep":"https://barsonyj.github.io/json/dinok/giganotosaurus.jpg"
+  },
+  {
+    "id": 13,
+    "nev": "Parasaurolophus",
+    "suly": 3.5,
+    "magas": 4,
+    "leiras": "A Parasaurolophus hosszú, hátranyúló tarajjal rendelkezett. Növényevő dinoszaurusz volt. A taraj hangadásra is szolgálhatott. A kréta időszakban élt. Csordákban mozoghatott.",
+	  "kep":"https://barsonyj.github.io/json/dinok/parasaurolophus.jpg"
+  },
+  {
+    "id": 14,
+    "nev": "Pachycephalosaurus",
+    "suly": 2,
+    "magas": 4,
+    "leiras": "A Pachycephalosaurus vastag koponyatetővel rendelkezett. Valószínűleg fejjel ütközve küzdött riválisaival. Növényevő lehetett. A kréta időszak végén élt. Fosszíliáit Észak-Amerikában találták meg.",
+	  "kep":"https://barsonyj.github.io/json/dinok/pachycephalosaurus.jpg"
+  },
+  {
+    "id": 15,
+    "nev": "Therizinosaurus",
+    "suly": 5,
+    "magas": 5,
+    "leiras": "A Therizinosaurus rendkívül hosszú karmokkal rendelkezett. Növényevő dinoszaurusz volt. Szokatlan testfelépítése miatt sokáig rejtélynek számított. A kréta időszakban élt. Ázsiában fedezték fel fosszíliáit.",
+	  "kep":"https://barsonyj.github.io/json/dinok/therizinosaurus.jpg"
+  },
+  {
+    "id": 16,
+    "nev": "Megalosaurus",
+    "suly": 1,
+    "magas": 3,
+    "leiras": "A Megalosaurus az első tudományosan leírt dinoszaurusz volt. Ragadozó életmódot folytatott. A jura időszakban élt. Erős hátsó lábain mozgott. Angliában találták meg fosszíliáit.",
+	  "kep":"https://barsonyj.github.io/json/dinok/megalosaurus.jpg"
+  },
+  {
+    "id": 17,
+    "nev": "Plateosaurus",
+    "suly": 4,
+    "magas": 5,
+    "leiras": "A Plateosaurus a triász időszakban élt. A korai sauropodomorphák közé tartozott. Hosszú nyaka segítette a növények elérésében. Képes volt két lábon is járni. Európában találták meg maradványait.",
+	  "kep":"https://barsonyj.github.io/json/dinok/plateosaurus.jpg"
+  }
+]
