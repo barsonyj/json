@@ -1,6 +1,6 @@
 [
  { "id":1, "kep":"https://barsonyj.github.io/json/teknos/teknos01k.jpg", "nagykep":"https://barsonyj.github.io/json/teknos/teknos01n.jpg" },
- { "id":2, "kep":"https://barsonyj.github.io/json/teknos/teknos02k.jpg", "nagykep":"https://barsonyj.github.io/json/teknos/teknos01n.jpg" },
- { "id":3, "kep":"https://barsonyj.github.io/json/teknos/teknos02k.jpg", "nagykep":"https://barsonyj.github.io/json/teknos/teknos01n.jpg" },
- { "id":4, "kep":"https://barsonyj.github.io/json/teknos/teknos02k.jpg", "nagykep":"https://barsonyj.github.io/json/teknos/teknos01n.jpg" }
+ { "id":2, "kep":"https://barsonyj.github.io/json/teknos/teknos02k.jpg", "nagykep":"https://barsonyj.github.io/json/teknos/teknos02n.jpg" },
+ { "id":3, "kep":"https://barsonyj.github.io/json/teknos/teknos03k.jpg", "nagykep":"https://barsonyj.github.io/json/teknos/teknos03n.jpg" },
+ { "id":4, "kep":"https://barsonyj.github.io/json/teknos/teknos04k.jpg", "nagykep":"https://barsonyj.github.io/json/teknos/teknos04n.jpg" }
 ]
